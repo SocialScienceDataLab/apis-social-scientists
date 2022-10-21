@@ -5,6 +5,7 @@
 📆 September 21, 2022
 
 Application Programming Interfaces, short APIs, are a technology that includes a set of tools allowing users to send and receive data or functionality through a documented interface. Nowadays, not only developers but also social scientists make use of APIs where typical use cases consist of systematically querying data that are made available by the API. On this occasion, we want to introduce the website "APIs for social scientists: A collaborative review" (Bauer, Landesvatter and Behrens, 2022) which is a collection of examples of different APIs alongside social science examples. The roundtable will be structured into two parts. First, the current editors of the collaborative review introduce the review and its chapter in more general terms. Second, together with our panelists who have authored several chapters in the review, we will discuss various questions surrounding APIs. This includes use cases, opportunities as well as limitations that APIs bring for social science research questions.
+
 [GitHub Repository: APIs for Social Scientists: A collaborative review](https://github.com/paulcbauer/apis_for_social_scientists_a_review)
 
 📝 [Slides](https://github.com/SocialScienceDataLab/apis-social-scientists/tree/main/slides)

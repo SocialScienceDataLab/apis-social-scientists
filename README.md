@@ -1,6 +1,6 @@
 # Application programming interfaces for social scientists: A collaborative review
 
-📍 virtual MZES, Mannheim
+📍 Hybrid Event: MZES, Mannheim + Zoom
 
 📆 September 21, 2022
 

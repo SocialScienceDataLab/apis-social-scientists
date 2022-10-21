@@ -8,7 +8,7 @@ Application Programming Interfaces, short APIs, are a technology that includes a
 
 [GitHub Repository: APIs for Social Scientists: A collaborative review](https://github.com/paulcbauer/apis_for_social_scientists_a_review)
 
-📝 [Slides](https://github.com/SocialScienceDataLab/apis-social-scientists/tree/main/slides)
+📝 [Slides](https://github.com/SocialScienceDataLab/apis-social-scientists/blob/main/api_social_scientists.pdf)
 
 👤 [Camille Landesvatter](https://twitter.com/c_landesvatter) is a PhD Candidate in Sociology at the University of Mannheim and research associate at the MZES. Her research includes generalized trust and social cohesion for which she draws on methods including survey experiments and text classification. Camille co-founded the API review, is author of multiple chapters and current editor.
 
